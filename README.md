@@ -69,3 +69,4 @@ For help generating other Liberty samples checkout the Liberty App Accelerator a
 [Liberty Maven Plug-in]: https://github.com/WASdev/ci.maven
 "# Hello-World-sample" 
 "# Hello-World-sample" 
+"# Hello-World-sample" 
